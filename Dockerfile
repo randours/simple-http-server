@@ -1,5 +1,4 @@
-vim Dockerfile
-#use a node base image
+# use a node base image
 FROM node:8-onbuild
 
 # set a health check
